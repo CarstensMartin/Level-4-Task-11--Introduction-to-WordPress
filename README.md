@@ -34,6 +34,6 @@ Hint: you can use most Getty Images pictures under a Creative Commons license, p
 
 ● Submit a link to your published website in a file called my-website.txt.
 
-## Link to published Website
+## Link to published website
 
 https://carstensmartin.wordpress.com/
